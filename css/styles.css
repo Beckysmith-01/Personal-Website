@@ -1,16 +1,16 @@
-  .body {
+  body {
   background-color: #fbe2e5;
   }
 
-  .h1 {
+  h1 {
     color: #9d65c9;
   }
 
-  .h3 {
+  h3 {
     color: #9d65c9;
   }
 
-  .hr {
+  hr {
     border-style: none;
     border-top-style: dotted;
     border-color: grey;
